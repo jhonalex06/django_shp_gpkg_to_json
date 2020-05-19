@@ -1,0 +1,2245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          982105.7944,
+          1025463.4425000008
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 197,
+        "OBJECTID": 197,
+        "NOMENCLATU": "25260001",
+        "MUNICIPIO": "EL ROSAL",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.82644925,
+        "LONGITUD": -74.23882228,
+        "ALTURA_ELI": 2598.14,
+        "ONDULACION": 24.8,
+        "X": 1727082.8939,
+        "Y": -6119204.2512,
+        "Z": 533281.4255,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          980346.7029000008,
+          1026686.1458
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 198,
+        "OBJECTID": 198,
+        "NOMENCLATU": "25260003",
+        "MUNICIPIO": "EL ROSAL",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.83750221,
+        "LONGITUD": -74.25468313,
+        "ALTURA_ELI": 2606.032,
+        "ONDULACION": 24.8,
+        "X": 1725363.0696,
+        "Y": -6119590.5505,
+        "Z": 534500.5069,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          978501.421000001,
+          1027978.1598000005
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 199,
+        "OBJECTID": 199,
+        "NOMENCLATU": "25269001",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.84918133,
+        "LONGITUD": -74.27132168,
+        "ALTURA_ELI": 2633.041,
+        "ONDULACION": 24.7,
+        "X": 1723563.6066,
+        "Y": -6120012.2342,
+        "Z": 535790.2105,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          977543.2488000002,
+          1028644.8546000011
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 200,
+        "OBJECTID": 200,
+        "NOMENCLATU": "25269002",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.85520771,
+        "LONGITUD": -74.27996154,
+        "ALTURA_ELI": 2677.94,
+        "ONDULACION": 24.7,
+        "X": 1722637.5678,
+        "Y": -6120260.8496,
+        "Z": 536458.3088,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          976621.5338000013,
+          1028919.1923999991
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 201,
+        "OBJECTID": 201,
+        "NOMENCLATU": "25269003",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.857686,
+        "LONGITUD": -74.28827178,
+        "ALTURA_ELI": 2738.134,
+        "ONDULACION": 24.7,
+        "X": 1721759.8171,
+        "Y": -6120546.0318,
+        "Z": 536736.5923,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          976412.2755000014,
+          1029845.2749000005
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 202,
+        "OBJECTID": 202,
+        "NOMENCLATU": "25269004",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.86605995,
+        "LONGITUD": -74.29016093,
+        "ALTURA_ELI": 2815.105,
+        "ONDULACION": 24.7,
+        "X": 1721557.5172,
+        "Y": -6120601.0427,
+        "Z": 537666.199,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          985052.6578000002,
+          1012724.2001999989
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 203,
+        "OBJECTID": 203,
+        "NOMENCLATU": "25286001",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.71125354,
+        "LONGITUD": -74.21223423,
+        "ALTURA_ELI": 2568.646,
+        "ONDULACION": 24.9,
+        "X": 1730202.5764,
+        "Y": -6119393.3569,
+        "Z": 520579.3317,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          986878.9348999998,
+          1013968.1994000003
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 204,
+        "OBJECTID": 204,
+        "NOMENCLATU": "25286003",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.7225061,
+        "LONGITUD": -74.1957752,
+        "ALTURA_ELI": 2569.412,
+        "ONDULACION": 24.9,
+        "X": 1731932.7169,
+        "Y": -6118798.3187,
+        "Z": 521820.011,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          987585.519700001,
+          1014681.8736000024
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 205,
+        "OBJECTID": 205,
+        "NOMENCLATU": "25286004",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.72896095,
+        "LONGITUD": -74.18940741,
+        "ALTURA_ELI": 2569.386,
+        "ONDULACION": 25.0,
+        "X": 1732596.7066,
+        "Y": -6118549.166,
+        "Z": 522531.6605,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          988278.1544000013,
+          1015341.4199999999
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 206,
+        "OBJECTID": 206,
+        "NOMENCLATU": "25286005",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.73492625,
+        "LONGITUD": -74.18316517,
+        "ALTURA_ELI": 2572.218,
+        "ONDULACION": 25.0,
+        "X": 1733249.2287,
+        "Y": -6118310.7045,
+        "Z": 523189.5661,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          975516.2891000016,
+          1034759.0792999994
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 223,
+        "OBJECTID": 223,
+        "NOMENCLATU": "25402003",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2011.0,
+        "LATITUD": 4.91049273,
+        "LONGITUD": -74.29825311,
+        "ALTURA_ELI": 2446.286,
+        "ONDULACION": 24.3,
+        "X": 1720480.2465,
+        "Y": -6120087.1253,
+        "Z": 542532.412,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          972786.5022000009,
+          1043629.843700001
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 224,
+        "OBJECTID": 224,
+        "NOMENCLATU": "25402012",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.99070188,
+        "LONGITUD": -74.3228943,
+        "ALTURA_ELI": 1421.922,
+        "ONDULACION": 22.7,
+        "X": 1717365.3625,
+        "Y": -6119106.7278,
+        "Z": 551283.3529,
+        "VX": 0.0013,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          971354.3306000018,
+          1044029.9091000017
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 225,
+        "OBJECTID": 225,
+        "NOMENCLATU": "25402015",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.99431468,
+        "LONGITUD": -74.33580963,
+        "ALTURA_ELI": 1231.135,
+        "ONDULACION": 22.5,
+        "X": 1715925.2733,
+        "Y": -6119277.2047,
+        "Z": 551664.8308,
+        "VX": 0.0013,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          969325.1761000007,
+          1047024.3466999996
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 226,
+        "OBJECTID": 226,
+        "NOMENCLATU": "25402018",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 5.02138562,
+        "LONGITUD": -74.35411802,
+        "ALTURA_ELI": 1014.333,
+        "ONDULACION": 21.9,
+        "X": 1713841.0884,
+        "Y": -6119365.5526,
+        "Z": 554628.5848,
+        "VX": 0.0027,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          984713.9053000007,
+          1023623.9711000025
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 227,
+        "OBJECTID": 227,
+        "NOMENCLATU": "25430001",
+        "MUNICIPIO": "MADRID",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.80982004,
+        "LONGITUD": -74.21530714,
+        "ALTURA_ELI": 2598.187,
+        "ONDULACION": 24.9,
+        "X": 1729636.2171,
+        "Y": -6118643.6485,
+        "Z": 531448.2829,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          983722.3668999998,
+          1024321.4938000031
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 228,
+        "OBJECTID": 228,
+        "NOMENCLATU": "25430002",
+        "MUNICIPIO": "MADRID",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.81612589,
+        "LONGITUD": -74.22424687,
+        "ALTURA_ELI": 2598.914,
+        "ONDULACION": 24.9,
+        "X": 1728665.8018,
+        "Y": -6118857.8164,
+        "Z": 532143.4841,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          982896.7993000001,
+          1024896.2510000002
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 229,
+        "OBJECTID": 229,
+        "NOMENCLATU": "25430003",
+        "MUNICIPIO": "MADRID",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.82132178,
+        "LONGITUD": -74.23169032,
+        "ALTURA_ELI": 2595.144,
+        "ONDULACION": 24.9,
+        "X": 1727856.7277,
+        "Y": -6119032.2563,
+        "Z": 532715.9443,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          982560.3276000004,
+          1011702.0766000003
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 235,
+        "OBJECTID": 235,
+        "NOMENCLATU": "25473007",
+        "MUNICIPIO": "MOSQUERA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2011.0,
+        "LATITUD": 4.70200571,
+        "LONGITUD": -74.23469646,
+        "ALTURA_ELI": 2565.658,
+        "ONDULACION": 24.9,
+        "X": 1727825.3961,
+        "Y": -6120149.1173,
+        "Z": 519559.4808,
+        "VX": 0.0009,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          983767.8062000014,
+          1011893.779000001
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 236,
+        "OBJECTID": 236,
+        "NOMENCLATU": "25473008",
+        "MUNICIPIO": "MOSQUERA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.70374166,
+        "LONGITUD": -74.22381351,
+        "ALTURA_ELI": 2565.988,
+        "ONDULACION": 24.9,
+        "X": 1728983.6548,
+        "Y": -6119805.9826,
+        "Z": 519750.903,
+        "VX": 0.0009,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          981395.731300001,
+          1025947.8882999998
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1602,
+        "OBJECTID": 1602,
+        "NOMENCLATU": "25260002",
+        "MUNICIPIO": "EL ROSAL",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.83082855,
+        "LONGITUD": -74.24522448,
+        "ALTURA_ELI": 2601.007,
+        "ONDULACION": 24.8,
+        "X": 1726388.8294,
+        "Y": -6119360.6978,
+        "Z": 533764.4183,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          979579.888100001,
+          1027222.7793000005
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1603,
+        "OBJECTID": 1603,
+        "NOMENCLATU": "25260004",
+        "MUNICIPIO": "EL ROSAL",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.84235314,
+        "LONGITUD": -74.26159728,
+        "ALTURA_ELI": 2611.235,
+        "ONDULACION": 24.8,
+        "X": 1724613.7019,
+        "Y": -6119760.1229,
+        "Z": 535035.68,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          969921.5137,
+          1024344.2743000016
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1604,
+        "OBJECTID": 1604,
+        "NOMENCLATU": "25269005",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2008.0,
+        "LATITUD": 4.81629368,
+        "LONGITUD": -74.3486576,
+        "ALTURA_ELI": 2615.658,
+        "ONDULACION": 24.5,
+        "X": 1715379.4712,
+        "Y": -6122611.5391,
+        "Z": 532163.3868,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          970078.4726,
+          1024369.0964000002
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1605,
+        "OBJECTID": 1605,
+        "NOMENCLATU": "25269006",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2008.0,
+        "LATITUD": 4.81651871,
+        "LONGITUD": -74.34724276,
+        "ALTURA_ELI": 2633.067,
+        "ONDULACION": 24.5,
+        "X": 1715534.7772,
+        "Y": -6122583.8701,
+        "Z": 532189.6549,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          974031.2095999997,
+          1033839.7342000008
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1627,
+        "OBJECTID": 1627,
+        "NOMENCLATU": "25402001",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.90217457,
+        "LONGITUD": -74.31163963,
+        "ALTURA_ELI": 2556.679,
+        "ONDULACION": 24.3,
+        "X": 1719101.3335,
+        "Y": -6120670.5909,
+        "Z": 541625.0203,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          976140.7866000012,
+          1035667.8158
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1628,
+        "OBJECTID": 1628,
+        "NOMENCLATU": "25402004",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.91871224,
+        "LONGITUD": -74.29262531,
+        "ALTURA_ELI": 2345.668,
+        "ONDULACION": 24.2,
+        "X": 1721033.1478,
+        "Y": -6119746.6098,
+        "Z": 543429.7262,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          976284.4462000001,
+          1036754.6350000016
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1629,
+        "OBJECTID": 1629,
+        "NOMENCLATU": "25402005",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.92854072,
+        "LONGITUD": -74.2913332,
+        "ALTURA_ELI": 2292.26,
+        "ONDULACION": 24.1,
+        "X": 1721131.4851,
+        "Y": -6119566.7414,
+        "Z": 544508.3857,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          975158.2982000001,
+          1037147.9889000002
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1630,
+        "OBJECTID": 1630,
+        "NOMENCLATU": "25402006",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2014.0,
+        "LATITUD": 4.93209446,
+        "LONGITUD": -74.30148797,
+        "ALTURA_ELI": 2258.757,
+        "ONDULACION": 23.9,
+        "X": 1720028.6887,
+        "Y": -6119807.0288,
+        "Z": 544897.1742,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          974459.2257000003,
+          1037765.3550000004
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1631,
+        "OBJECTID": 1631,
+        "NOMENCLATU": "25402007",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.93767511,
+        "LONGITUD": -74.3077929,
+        "ALTURA_ELI": 2229.384,
+        "ONDULACION": 23.8,
+        "X": 1719332.9647,
+        "Y": -6119916.9662,
+        "Z": 545509.7004,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          974506.9034000011,
+          1038345.9896000009
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1632,
+        "OBJECTID": 1632,
+        "NOMENCLATU": "25402008",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.94292591,
+        "LONGITUD": -74.30736483,
+        "ALTURA_ELI": 2128.308,
+        "ONDULACION": 23.7,
+        "X": 1719337.9213,
+        "Y": -6119759.0173,
+        "Z": 546079.6841,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          974186.4765000008,
+          1042309.7161999997
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1633,
+        "OBJECTID": 1633,
+        "NOMENCLATU": "25402009",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.97876865,
+        "LONGITUD": -74.31026648,
+        "ALTURA_ELI": 1649.979,
+        "ONDULACION": 23.0,
+        "X": 1718806.4082,
+        "Y": -6119057.2223,
+        "Z": 549988.2327,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          972982.4896999998,
+          1042783.7456000019
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1634,
+        "OBJECTID": 1634,
+        "NOMENCLATU": "25402011",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.98305133,
+        "LONGITUD": -74.32112425,
+        "ALTURA_ELI": 1485.274,
+        "ONDULACION": 22.8,
+        "X": 1717591.3349,
+        "Y": -6119185.2566,
+        "Z": 550445.8514,
+        "VX": 0.0013,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          972531.2208000012,
+          1043533.3644000012
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1635,
+        "OBJECTID": 1635,
+        "NOMENCLATU": "25402013",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.98982856,
+        "LONGITUD": -74.32519585,
+        "ALTURA_ELI": 1359.686,
+        "ONDULACION": 22.7,
+        "X": 1717105.0781,
+        "Y": -6119124.1054,
+        "Z": 551181.7103,
+        "VX": 0.0013,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          972282.1453,
+          1043361.4112
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1636,
+        "OBJECTID": 1636,
+        "NOMENCLATU": "25402014",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.98827275,
+        "LONGITUD": -74.32744118,
+        "ALTURA_ELI": 1314.205,
+        "ONDULACION": 22.7,
+        "X": 1716857.0811,
+        "Y": -6119162.1753,
+        "Z": 551006.3249,
+        "VX": 0.0013,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          970638.3102000002,
+          1044881.4064000025
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1637,
+        "OBJECTID": 1637,
+        "NOMENCLATU": "25402016",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 5.00201212,
+        "LONGITUD": -74.34226913,
+        "ALTURA_ELI": 1159.06,
+        "ONDULACION": 22.3,
+        "X": 1715195.9815,
+        "Y": -6119330.0609,
+        "Z": 552506.6783,
+        "VX": 0.0027,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          968192.7699000007,
+          1047655.2672000024
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1638,
+        "OBJECTID": 1638,
+        "NOMENCLATU": "25402019",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 5.02708655,
+        "LONGITUD": -74.3643319,
+        "ALTURA_ELI": 964.58,
+        "ONDULACION": 21.8,
+        "X": 1712721.9468,
+        "Y": -6119570.07,
+        "Z": 555252.3285,
+        "VX": 0.0027,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          978511.388100001,
+          1014912.0386999995
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1640,
+        "OBJECTID": 1640,
+        "NOMENCLATU": "25430004",
+        "MUNICIPIO": "MADRID",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2014.0,
+        "LATITUD": 4.7310243,
+        "LONGITUD": -74.27119857,
+        "ALTURA_ELI": 2568.712,
+        "ONDULACION": 24.7,
+        "X": 1723855.2771,
+        "Y": -6120997.4919,
+        "Z": 522759.0888,
+        "VX": 0.0024,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          977519.2133999988,
+          1014228.7486000005
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1641,
+        "OBJECTID": 1641,
+        "NOMENCLATU": "25430005",
+        "MUNICIPIO": "MADRID",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2014.0,
+        "LATITUD": 4.72484273,
+        "LONGITUD": -74.28013984,
+        "ALTURA_ELI": 2568.809,
+        "ONDULACION": 24.7,
+        "X": 1722915.3435,
+        "Y": -6121320.784,
+        "Z": 522077.5778,
+        "VX": 0.0024,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          975976.7687999997,
+          1030761.2247000001
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1696,
+        "OBJECTID": 1696,
+        "NOMENCLATU": "25658001",
+        "MUNICIPIO": "SAN FRANCISCO",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.87434161,
+        "LONGITUD": -74.29408983,
+        "ALTURA_ELI": 2855.354,
+        "ONDULACION": 24.6,
+        "X": 1721127.6089,
+        "Y": -6120682.8043,
+        "Z": 538582.5228,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          975096.2471000003,
+          1032183.1401000023
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1697,
+        "OBJECTID": 1697,
+        "NOMENCLATU": "25658002",
+        "MUNICIPIO": "SAN FRANCISCO",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.88719734,
+        "LONGITUD": -74.30203242,
+        "ALTURA_ELI": 2711.298,
+        "ONDULACION": 24.5,
+        "X": 1720207.5402,
+        "Y": -6120666.6608,
+        "Z": 539987.3498,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          975674.781700002,
+          1039021.0003000014
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1698,
+        "OBJECTID": 1698,
+        "NOMENCLATU": "25658003",
+        "MUNICIPIO": "SAN FRANCISCO",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.94903357,
+        "LONGITUD": -74.29683679,
+        "ALTURA_ELI": 2051.371,
+        "ONDULACION": 23.7,
+        "X": 1720425.8802,
+        "Y": -6119313.122,
+        "Z": 546746.1581,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          975071.5123000005,
+          1039990.6232999973
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1699,
+        "OBJECTID": 1699,
+        "NOMENCLATU": "25658005",
+        "MUNICIPIO": "SAN FRANCISCO",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.9578,
+        "LONGITUD": -74.30227912,
+        "ALTURA_ELI": 1872.947,
+        "ONDULACION": 23.5,
+        "X": 1719773.8714,
+        "Y": -6119224.7756,
+        "Z": 547696.8443,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          974525.4864000008,
+          1040710.2894000039
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1700,
+        "OBJECTID": 1700,
+        "NOMENCLATU": "25658006",
+        "MUNICIPIO": "SAN FRANCISCO",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.9643062,
+        "LONGITUD": -74.30720466,
+        "ALTURA_ELI": 1833.472,
+        "ONDULACION": 23.3,
+        "X": 1719220.3433,
+        "Y": -6119274.8189,
+        "Z": 548410.418,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          973795.4463999998,
+          1041383.3139000013
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 1701,
+        "OBJECTID": 1701,
+        "NOMENCLATU": "25658007",
+        "MUNICIPIO": "SAN FRANCISCO",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.97039,
+        "LONGITUD": -74.31378936,
+        "ALTURA_ELI": 1755.31,
+        "ONDULACION": 23.1,
+        "X": 1718480.2682,
+        "Y": -6119341.2908,
+        "Z": 549074.075,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          961639.7918000007,
+          1036710.2978000008
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 2424,
+        "OBJECTID": 2424,
+        "NOMENCLATU": "53-NW-1",
+        "MUNICIPIO": "SASAIMA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 1999.0,
+        "LATITUD": 4.92808421,
+        "LONGITUD": -74.42337149,
+        "ALTURA_ELI": 1565.688,
+        "ONDULACION": 22.6,
+        "X": 1706831.1499,
+        "Y": -6122823.7211,
+        "Z": 544395.6564,
+        "VX": 0.0013,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          974640.8592999997,
+          1032840.6607000008
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 2485,
+        "OBJECTID": 2485,
+        "NOMENCLATU": "60-CM-14",
+        "MUNICIPIO": "SAN FRANCISCO",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.89314189,
+        "LONGITUD": -74.30614005,
+        "ALTURA_ELI": 2638.047,
+        "ONDULACION": 24.5,
+        "X": 1719733.8286,
+        "Y": -6120665.7353,
+        "Z": 540636.3511,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          975382.1581000006,
+          1030949.2392000034
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 2494,
+        "OBJECTID": 2494,
+        "NOMENCLATU": "62-CM-14",
+        "MUNICIPIO": "SAN FRANCISCO",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.87604007,
+        "LONGITUD": -74.29945108,
+        "ALTURA_ELI": 2798.656,
+        "ONDULACION": 24.6,
+        "X": 1720535.2706,
+        "Y": -6120774.0674,
+        "Z": 538764.928,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          976442.2219000012,
+          1029385.0308999997
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 2526,
+        "OBJECTID": 2526,
+        "NOMENCLATU": "64-CM-14",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.86189806,
+        "LONGITUD": -74.28988964,
+        "ALTURA_ELI": 2785.615,
+        "ONDULACION": 24.7,
+        "X": 1721589.1114,
+        "Y": -6120602.1872,
+        "Z": 537204.9218,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          979310.7668000013,
+          1027390.488499999
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 2566,
+        "OBJECTID": 2566,
+        "NOMENCLATU": "67-CM-14",
+        "MUNICIPIO": "EL ROSAL",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2002.0,
+        "LATITUD": 4.84386907,
+        "LONGITUD": -74.26402384,
+        "ALTURA_ELI": 2614.903,
+        "ONDULACION": 24.8,
+        "X": 1724351.6708,
+        "Y": -6119823.0477,
+        "Z": 535203.095,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          961758.8975000018,
+          1038726.7877000012
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 3937,
+        "OBJECTID": 3937,
+        "NOMENCLATU": "A45-NW-1",
+        "MUNICIPIO": "SASAIMA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2012.0,
+        "LATITUD": 4.9463196,
+        "LONGITUD": -74.42230704,
+        "ALTURA_ELI": 1399.031,
+        "ONDULACION": 22.3,
+        "X": 1706853.6952,
+        "Y": -6122464.8573,
+        "Z": 546390.8161,
+        "VX": 0.0068,
+        "VY": 0.002,
+        "VZ": 0.003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          983549.5455999998,
+          1013302.546000002
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4924,
+        "OBJECTID": 4924,
+        "NOMENCLATU": "GPS-C-T-10",
+        "MUNICIPIO": "MOSQUERA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2002.0,
+        "LATITUD": 4.71648079,
+        "LONGITUD": -74.22578345,
+        "ALTURA_ELI": 2569.537,
+        "ONDULACION": 24.8,
+        "X": 1728742.7453,
+        "Y": -6119757.4635,
+        "Z": 521155.7222,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          967377.2617000015,
+          1018118.3892000038
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4925,
+        "OBJECTID": 4925,
+        "NOMENCLATU": "GPS-C-T-102",
+        "MUNICIPIO": "ZIPAC\u00d3N",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2007.0,
+        "LATITUD": 4.75998383,
+        "LONGITUD": -74.37156913,
+        "ALTURA_ELI": 2498.598,
+        "ONDULACION": 24.1,
+        "X": 1713039.6692,
+        "Y": -6123685.411,
+        "Z": 525945.9859,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          971968.1815,
+          1044485.6634
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4940,
+        "OBJECTID": 4940,
+        "NOMENCLATU": "GPS-C-T-31",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2005.0,
+        "LATITUD": 4.99843819,
+        "LONGITUD": -74.33027608,
+        "ALTURA_ELI": 1369.61,
+        "ONDULACION": 22.5,
+        "X": 1716542.7882,
+        "Y": -6119206.0316,
+        "Z": 552131.2397,
+        "VX": 0.0013,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          971879.6382000018,
+          1043721.0985000003
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4941,
+        "OBJECTID": 4941,
+        "NOMENCLATU": "GPS-C-T-32",
+        "MUNICIPIO": "LA VEGA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2005.0,
+        "LATITUD": 4.99152398,
+        "LONGITUD": -74.33107183,
+        "ALTURA_ELI": 1273.839,
+        "ONDULACION": 22.6,
+        "X": 1716450.0176,
+        "Y": -6119202.1204,
+        "Z": 551361.0544,
+        "VX": 0.0013,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          970474.6213000007,
+          1022434.6105000004
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4949,
+        "OBJECTID": 4949,
+        "NOMENCLATU": "GPS-C-T-43",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2006.0,
+        "LATITUD": 4.79902664,
+        "LONGITUD": -74.34366482,
+        "ALTURA_ELI": 2659.755,
+        "ONDULACION": 24.5,
+        "X": 1715968.0559,
+        "Y": -6122658.5059,
+        "Z": 530263.5831,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          987930.4709000001,
+          1015015.2447999995
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4950,
+        "OBJECTID": 4950,
+        "NOMENCLATU": "GPS-C-T-45",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2006.0,
+        "LATITUD": 4.73197614,
+        "LONGITUD": -74.18629862,
+        "ALTURA_ELI": 2571.389,
+        "ONDULACION": 25.0,
+        "X": 1732921.7354,
+        "Y": -6118430.6023,
+        "Z": 522864.25,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          986966.1319000013,
+          1014016.0435000025
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4951,
+        "OBJECTID": 4951,
+        "NOMENCLATU": "GPS-C-T-46",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2006.0,
+        "LATITUD": 4.72293889,
+        "LONGITUD": -74.19498931,
+        "ALTURA_ELI": 2569.483,
+        "ONDULACION": 24.9,
+        "X": 1732015.5889,
+        "Y": -6118770.8373,
+        "Z": 521867.7324,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          981052.9957999997,
+          1013974.3829999994
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4954,
+        "OBJECTID": 4954,
+        "NOMENCLATU": "GPS-C-T-49",
+        "MUNICIPIO": "MADRID",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2006.0,
+        "LATITUD": 4.72255107,
+        "LONGITUD": -74.24828743,
+        "ALTURA_ELI": 2570.253,
+        "ONDULACION": 24.8,
+        "X": 1726324.1586,
+        "Y": -6120383.4967,
+        "Z": 521825.039,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          982433.7607000014,
+          1012882.8263000008
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4955,
+        "OBJECTID": 4955,
+        "NOMENCLATU": "GPS-C-T-52",
+        "MUNICIPIO": "MOSQUERA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2006.0,
+        "LATITUD": 4.71268303,
+        "LONGITUD": -74.23583965,
+        "ALTURA_ELI": 2568.121,
+        "ONDULACION": 24.8,
+        "X": 1727677.6151,
+        "Y": -6120092.6626,
+        "Z": 520736.8936,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          959963.0298000006,
+          1014786.1592999995
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4965,
+        "OBJECTID": 4965,
+        "NOMENCLATU": "GPS-C-T-69",
+        "MUNICIPIO": "CACHIPAY",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2009.0,
+        "LATITUD": 4.72981903,
+        "LONGITUD": -74.43838452,
+        "ALTURA_ELI": 1608.243,
+        "ONDULACION": 22.7,
+        "X": 1705733.3861,
+        "Y": -6125090.0252,
+        "Z": 522547.0109,
+        "VX": 0.0011,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          983596.1382000018,
+          1013222.782700004
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 4972,
+        "OBJECTID": 4972,
+        "NOMENCLATU": "GPS-C-T-9",
+        "MUNICIPIO": "MOSQUERA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2002.0,
+        "LATITUD": 4.71575958,
+        "LONGITUD": -74.22536334,
+        "ALTURA_ELI": 2568.845,
+        "ONDULACION": 24.8,
+        "X": 1728789.2133,
+        "Y": -6119750.4373,
+        "Z": 521076.15,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          984116.0569000011,
+          1018823.3031000029
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 5006,
+        "OBJECTID": 5006,
+        "NOMENCLATU": "GPS-D-C-003",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2001.0,
+        "LATITUD": 4.76640632,
+        "LONGITUD": -74.22068751,
+        "ALTURA_ELI": 2581.075,
+        "ONDULACION": 24.8,
+        "X": 1729166.0149,
+        "Y": -6119175.4168,
+        "Z": 526660.8772,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          972795.8046000013,
+          1027557.4864000008
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 5008,
+        "OBJECTID": 5008,
+        "NOMENCLATU": "GPS-D-C-007",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 1999.0,
+        "LATITUD": 4.84536049,
+        "LONGITUD": -74.32275723,
+        "ALTURA_ELI": 3009.944,
+        "ONDULACION": 24.6,
+        "X": 1718179.9902,
+        "Y": -6121953.0189,
+        "Z": 535400.8649,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          985164.8373999996,
+          1013562.7478
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 5011,
+        "OBJECTID": 5011,
+        "NOMENCLATU": "GPS-D-C-16",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 1999.0,
+        "LATITUD": 4.71883677,
+        "LONGITUD": -74.21122456,
+        "ALTURA_ELI": 2570.004,
+        "ONDULACION": 24.9,
+        "X": 1730292.0177,
+        "Y": -6119297.8126,
+        "Z": 521415.5113,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          985108.3596000001,
+          1013719.290500002
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 5012,
+        "OBJECTID": 5012,
+        "NOMENCLATU": "GPS-D-C-17",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2002.0,
+        "LATITUD": 4.72025229,
+        "LONGITUD": -74.21173389,
+        "ALTURA_ELI": 2570.854,
+        "ONDULACION": 24.9,
+        "X": 1730234.3446,
+        "Y": -6119301.6104,
+        "Z": 521571.6451,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          984121.1695000017,
+          1018498.446200002
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 5878,
+        "OBJECTID": 5878,
+        "NOMENCLATU": "SAZ-GPS-D-C-003",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2001.0,
+        "LATITUD": 4.76346864,
+        "LONGITUD": -74.22064082,
+        "ALTURA_ELI": 2581.0,
+        "ONDULACION": 24.8,
+        "X": 1729178.3225,
+        "Y": -6119199.9143,
+        "Z": 526337.0071,
+        "VX": 0.001,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          972786.0246000001,
+          1027719.2932000011
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 5880,
+        "OBJECTID": 5880,
+        "NOMENCLATU": "SAZ-GPS-D-C-007",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 1999.0,
+        "LATITUD": 4.84682367,
+        "LONGITUD": -74.32284593,
+        "ALTURA_ELI": 3029.979,
+        "ONDULACION": 24.6,
+        "X": 1718172.2124,
+        "Y": -6121961.7327,
+        "Z": 535563.8576,
+        "VX": 0.0012,
+        "VY": 0.002,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          959844.3706999999,
+          1030846.9441000018
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6269,
+        "OBJECTID": 6269,
+        "NOMENCLATU": "25019001",
+        "MUNICIPIO": "ALB\u00c1N",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.87505417,
+        "LONGITUD": -74.43953063,
+        "ALTURA_ELI": 2236.757,
+        "ONDULACION": 23.2,
+        "X": 1705418.0734,
+        "Y": -6124431.8042,
+        "Z": 538608.4991,
+        "VX": 0.0026,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          960102.6937999995,
+          1031308.7559999991
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6270,
+        "OBJECTID": 6270,
+        "NOMENCLATU": "25019002",
+        "MUNICIPIO": "ALB\u00c1N",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.87923152,
+        "LONGITUD": -74.43720397,
+        "ALTURA_ELI": 2304.529,
+        "ONDULACION": 23.2,
+        "X": 1705674.3479,
+        "Y": -6124389.7489,
+        "Z": 539074.6944,
+        "VX": 0.0026,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          956502.3833999997,
+          1018256.9005000014
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6271,
+        "OBJECTID": 6271,
+        "NOMENCLATU": "25040001",
+        "MUNICIPIO": "ANOLAIMA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.76118751,
+        "LONGITUD": -74.46959458,
+        "ALTURA_ELI": 1630.674,
+        "ONDULACION": 22.5,
+        "X": 1702325.8129,
+        "Y": -6125763.2334,
+        "Z": 526006.6436,
+        "VX": 0.0025,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          956063.6277999999,
+          1017874.2955000009
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6272,
+        "OBJECTID": 6272,
+        "NOMENCLATU": "25040002",
+        "MUNICIPIO": "ANOLAIMA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.7577254,
+        "LONGITUD": -74.47354748,
+        "ALTURA_ELI": 1647.983,
+        "ONDULACION": 22.4,
+        "X": 1701916.309,
+        "Y": -6125927.8982,
+        "Z": 525626.4549,
+        "VX": 0.0025,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          956603.9625000004,
+          1031296.3992999997
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6276,
+        "OBJECTID": 6276,
+        "NOMENCLATU": "25328001",
+        "MUNICIPIO": "GUAYABAL DE S\u00cdQUIMA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.87910215,
+        "LONGITUD": -74.46874641,
+        "ALTURA_ELI": 1611.867,
+        "ONDULACION": 22.6,
+        "X": 1702118.0226,
+        "Y": -6124664.05,
+        "Z": 539001.5213,
+        "VX": 0.0026,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          956807.2271000007,
+          1031862.8622000013
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6277,
+        "OBJECTID": 6277,
+        "NOMENCLATU": "25328002",
+        "MUNICIPIO": "GUAYABAL DE S\u00cdQUIMA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.88422564,
+        "LONGITUD": -74.46691685,
+        "ALTURA_ELI": 1674.954,
+        "ONDULACION": 22.6,
+        "X": 1702317.5117,
+        "Y": -6124623.7927,
+        "Z": 539571.5487,
+        "VX": 0.0026,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          949875.7327000014,
+          1017573.3512000013
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6285,
+        "OBJECTID": 6285,
+        "NOMENCLATU": "25596001",
+        "MUNICIPIO": "QUIPILE",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.75496969,
+        "LONGITUD": -74.52932188,
+        "ALTURA_ELI": 1495.293,
+        "ONDULACION": 22.0,
+        "X": 1695918.3902,
+        "Y": -6127459.4286,
+        "Z": 525310.0359,
+        "VX": 0.0026,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          949514.9896,
+          1017829.8394000009
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6286,
+        "OBJECTID": 6286,
+        "NOMENCLATU": "25596002",
+        "MUNICIPIO": "QUIPILE",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.75728691,
+        "LONGITUD": -74.53257503,
+        "ALTURA_ELI": 1498.22,
+        "ONDULACION": 22.0,
+        "X": 1695565.5921,
+        "Y": -6127538.0394,
+        "Z": 525565.7,
+        "VX": 0.0026,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          966544.8018000014,
+          1018319.8707999997
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6289,
+        "OBJECTID": 6289,
+        "NOMENCLATU": "GPS-C-T-101",
+        "MUNICIPIO": "ZIPAC\u00d3N",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2007.0,
+        "LATITUD": 4.76180257,
+        "LONGITUD": -74.37907364,
+        "ALTURA_ELI": 2571.787,
+        "ONDULACION": 24.1,
+        "X": 1712252.7265,
+        "Y": -6123963.8895,
+        "Z": 526152.5665,
+        "VX": 0.0025,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          968802.6556000011,
+          1023812.3533000015
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6290,
+        "OBJECTID": 6290,
+        "NOMENCLATU": "GPS-C-T-44",
+        "MUNICIPIO": "FACATATIV\u00c1",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.81147945,
+        "LONGITUD": -74.35874176,
+        "ALTURA_ELI": 2607.665,
+        "ONDULACION": 24.5,
+        "X": 1714311.7572,
+        "Y": -6122948.7236,
+        "Z": 531632.0078,
+        "VX": 0.0025,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          979796.4575000005,
+          1014970.5297999997
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6382,
+        "OBJECTID": 6382,
+        "NOMENCLATU": "GPS-C-T-50",
+        "MUNICIPIO": "MADRID",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 2017.0,
+        "LATITUD": 4.73155638,
+        "LONGITUD": -74.25961559,
+        "ALTURA_ELI": 2570.957,
+        "ONDULACION": 24.7,
+        "X": 1725091.9592,
+        "Y": -6120646.3507,
+        "Z": 522817.9356,
+        "VX": 0.0024,
+        "VY": 0.002,
+        "VZ": 0.014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          988990.2813999997,
+          1011857.3370000012
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6645,
+        "OBJECTID": 6645,
+        "NOMENCLATU": "CD-486",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.70342041,
+        "LONGITUD": -74.1767418,
+        "ALTURA_ELI": 2567.082,
+        "ONDULACION": 25.1,
+        "X": 1734011.9279,
+        "Y": -6118387.3126,
+        "Z": 519715.5737,
+        "VX": 0.0009,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          989394.3603000017,
+          1012495.8399999999
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6646,
+        "OBJECTID": 6646,
+        "NOMENCLATU": "CD-488",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.70919494,
+        "LONGITUD": -74.1731005,
+        "ALTURA_ELI": 2569.0,
+        "ONDULACION": 25.1,
+        "X": 1734386.9898,
+        "Y": -6118228.5113,
+        "Z": 520352.3944,
+        "VX": 0.0009,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          989271.1821000008,
+          1012828.8049999997
+        ]
+      },
+      "properties": {
+        "OBJECTID_1": 6647,
+        "OBJECTID": 6647,
+        "NOMENCLATU": "CD-489",
+        "MUNICIPIO": "FUNZA",
+        "DEPARTAMEN": "CUNDINAMARCA",
+        "FECHA_C\u00c1L": 0.0,
+        "LATITUD": 4.71220582,
+        "LONGITUD": -74.17421117,
+        "ALTURA_ELI": 2569.876,
+        "ONDULACION": 25.1,
+        "X": 1734261.1674,
+        "Y": -6118236.6543,
+        "Z": 520684.4239,
+        "VX": 0.0009,
+        "VY": 0.001,
+        "VZ": 0.013
+      }
+    }
+  ]
+}
