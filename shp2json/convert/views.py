@@ -77,8 +77,10 @@ def datos_compuesto_list(request):
 
         print (shp)
         tmp = gpd.GeoDataFrame.from_file(shp)
-        tmpWGS84 = tmp.to_crs('EPSG:3857')
+        tmpWGS84 = tmp
         tmpWGS84.to_file(shp)
+
+        print(tmpWGS84.geometry.bounds)
 
         tmpWGS84.to_file("temp.geojson", driver='GeoJSON')
 
